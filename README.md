@@ -47,7 +47,6 @@
 - ✅ **Modern Stack** - Next.js 15 with App Router, TypeScript, Tailwind CSS
 - ✅ **Beautiful UI** - Professional design with custom color palette
 - ✅ **Smooth Animations** - Framer Motion for delightful user experience
-- ✅ **State Management** - Zustand for lightweight, efficient state management
 - ✅ **Icon Library** - Lucide React for consistent, beautiful icons
 
 ### Design & UX
