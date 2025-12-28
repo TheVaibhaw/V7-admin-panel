@@ -173,8 +173,7 @@ v7-admin-panel/
 ├── tsconfig.json                # TypeScript configuration
 ├── package.json                 # Dependencies and scripts
 ├── README.md                    # This file
-├── LICENSE                      # MIT License
-└── CONTRIBUTING.md              # Contributing guidelines
+└── LICENSE                      # MIT License
 ```
 
 ---
